@@ -6,10 +6,4 @@
 
 ![snake](https://raw.githubusercontent.com/TankingCao/TankingCao/output/github-contribution-grid-snake.svg)
 
-### 博客简介
-
-
-| :----:| :----: | 
-| 个人博客 | [学海无涯](https://tankingcao.github.io) | 
-| Gitee| [clibin](https://gitee.com/clibin) | 
-| GitHub|[tnakingcao](https://github.com/TankingCao)| 
+### 个人博客:[学海无涯](https://tankingcao.github.io)
