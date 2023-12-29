@@ -8,3 +8,5 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TankingCao&theme=vue&hide_border=true&point=ff6b6b&area=true&bg_color=00000000&color=f2b94b&title_color=54a0ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Visitor Count](https://profile-counter.glitch.me/TankingCao/count.svg)
