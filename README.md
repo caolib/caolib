@@ -6,4 +6,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TankingCao&layout=compact&theme=tokyonight&locale=cn&hide_border=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TankingCao&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TankingCao&theme=vue&hide_border=true&point=ff6b6b&area=true&bg_color=141321)](https://github.com/ashutosh00710/github-readme-activity-graph)
