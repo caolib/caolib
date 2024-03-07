@@ -1,3 +1,10 @@
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://tankingcao.github.io">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=停止摆烂，背水一战.;System.out.println(%22Hello%EF%BC%8Cworld%22)">
+  </a>
+</h1>
+
 ![snake](https://raw.githubusercontent.com/TankingCao/TankingCao/output/github-contribution-grid-snake.svg)
 
 ### 个人博客:[学海无涯](https://tankingcao.github.io)
