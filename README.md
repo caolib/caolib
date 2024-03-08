@@ -1,9 +1,5 @@
 <!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://tankingcao.github.io">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%ffff6b6b&lines=停止摆烂，背水一战.;System.out.println(%22Hello%EF%BC%8Cworld%22);">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=60&duration=3500&pause=1000&color=ffffff&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=%E5%A4%A9%E7%94%9F%E6%88%91%E6%9D%90%E5%BF%85%E6%9C%89%E7%94%A8%EF%BC%8C%E5%8D%83%E9%87%91%E6%95%A3%E5%B0%BD%E8%BF%98%E5%A4%8D%E6%9D%A5%E3%80%82)](https://git.io/typing-svg)
 
 ![snake](https://raw.githubusercontent.com/TankingCao/TankingCao/output/github-contribution-grid-snake.svg)
 
@@ -48,7 +44,5 @@
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TankingCao&theme=vue&hide_border=true&point=ff6b6b&area=true&bg_color=00000000&color=f2b94b&title_color=54a0ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![clb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TankingCao&theme=vue&hide_border=true&point=ff6b6b&area=true&bg_color=00000000&color=f2b94b&title_color=54a0ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TankingCao&layout=compact&theme=tokyonight&locale=cn&hide_border=true&bg_color=00000000&text_color=f2b94b&title_color=54a0ff)
