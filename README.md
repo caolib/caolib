@@ -1,9 +1,8 @@
 <!-- 动态打字效果 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=60&duration=3500&pause=1000&color=00ADFF&center=true&vCenter=true&random=false&width=1000&height=200&separator=%3C&lines=%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%E5%87%BA%E9%97%A8%E5%8E%BB%EF%BC%8C%E6%88%91%E8%BE%88%E5%B2%82%E6%98%AF%E8%93%AC%E8%92%BF%E4%BA%BA%E3%80%82%3CSystem.out.println(%22Hello+World%22);)](https://git.io/typing-svg)
 
-![snake](https://raw.githubusercontent.com/TankingCao/TankingCao/output/github-contribution-grid-snake.svg)
-
 <!-- 个人资料徽标 -->
+&emsp;&emsp;
 <div align="center">
   <a href="https://tankingcao.github.io"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://space.bilibili.com/441126797"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
@@ -28,6 +27,7 @@
 常用的工具:
 
 &emsp;&emsp;
+![IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-v2023-blue?logo=IntelliJ%20IDEA&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
@@ -36,6 +36,7 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
+![snake](https://raw.githubusercontent.com/TankingCao/TankingCao/output/github-contribution-grid-snake.svg)
 
 <!-- 连续提交代码天数记录 -->
 <p align="center">
