@@ -1,5 +1,5 @@
 <!-- 动态打字效果 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=60&duration=3500&pause=1000&color=ffffff&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=%E5%A4%A9%E7%94%9F%E6%88%91%E6%9D%90%E5%BF%85%E6%9C%89%E7%94%A8%EF%BC%8C%E5%8D%83%E9%87%91%E6%95%A3%E5%B0%BD%E8%BF%98%E5%A4%8D%E6%9D%A5%E3%80%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=60&duration=3500&pause=1000&color=00ADFF&center=true&vCenter=true&random=false&width=1000&height=200&separator=%3C&lines=%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%E5%87%BA%E9%97%A8%E5%8E%BB%EF%BC%8C%E6%88%91%E8%BE%88%E5%B2%82%E6%98%AF%E8%93%AC%E8%92%BF%E4%BA%BA%E3%80%82%3CSystem.out.println(%22Hello+World%22);)](https://git.io/typing-svg)
 
 ![snake](https://raw.githubusercontent.com/TankingCao/TankingCao/output/github-contribution-grid-snake.svg)
 
