@@ -17,7 +17,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
