@@ -1,5 +1,5 @@
 <!-- 动态打字效果 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=60&duration=3500&pause=1000&color=00ADFF&center=true&vCenter=true&random=false&width=1000&height=200&separator=%3C&lines=%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%E5%87%BA%E9%97%A8%E5%8E%BB%EF%BC%8C%E6%88%91%E8%BE%88%E5%B2%82%E6%98%AF%E8%93%AC%E8%92%BF%E4%BA%BA%E3%80%82%3CSystem.out.println(%22Hello+World%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=80&duration=2500&pause=500&color=3FF76E&center=true&vCenter=true&random=false&width=1000&height=120&lines=%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E6%88%91%E6%98%AF%E4%BD%A0%E7%9A%84%E8%B0%81%EF%BC%9F;%E5%86%8D%E5%A4%9A%E4%B8%80%E7%9C%BC%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%B0%B1%E4%BC%9A%E7%88%86%E7%82%B8%EF%BC%81;%E5%86%8D%E8%BF%91%E4%B8%80%E7%82%B9%E9%9D%A0%E8%BF%91%E7%82%B9%E5%BF%AB%E8%A2%AB%E8%9E%8D%E5%8C%96%EF%BC%81;%E6%83%B3%E8%A6%81%E6%8A%8A%E4%BD%A0%E5%8D%A0%E4%B8%BA%E5%B7%B1%E6%9C%89babyby)](https://git.io/typing-svg)
 
 <!-- 个人资料徽标 -->
 &emsp;&emsp;
