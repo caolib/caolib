@@ -35,11 +35,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-
+<!-- 贪吃蛇 -->
 ![snake](https://raw.githubusercontent.com/TankingCao/TankingCao/output/github-contribution-grid-snake.svg)
 
 <!-- 连续提交代码天数记录 -->
-
 <p align="center">
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tankingcao&theme=dark&hide_border=true" />
