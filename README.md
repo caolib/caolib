@@ -7,9 +7,12 @@
 &emsp;&emsp;
 <div align="center">
   <a href="https://tankingcao.github.io"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>
-  <a href="https://space.bilibili.com/441126797"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;&emsp;
+  <a href="https://space.bilibili.com/441126797"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>
+  <img src="https://komarev.com/ghpvc/?username=tankingcao&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </br>
 
+  <div>&nbsp;</div>
+  
 &emsp;&emsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
@@ -45,5 +48,13 @@
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p> 
 
+
+<!-- 奖杯 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=tankingcao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- 常用语言 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankingcao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+<!-- 提交记录 -->
 [![clb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TankingCao&theme=vue&hide_border=true&point=ff6b6b&area=true&bg_color=00000000&color=f2b94b&title_color=54a0ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
