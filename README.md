@@ -54,7 +54,11 @@
 <!-- 奖杯 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=tankingcao&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <!-- 提交记录 -->
-[![clb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TankingCao&theme=vue&hide_border=true&point=ff6b6b&area=true&bg_color=00000000&color=f2b94b&title_color=54a0ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![clb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TankingCao&theme=vue&hide_border=true&point=ff6b6b&area=true&bg_color=00000000&color=f2b94b&title_color=54a0ff)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
