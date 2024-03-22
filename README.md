@@ -27,6 +27,7 @@
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+![hexo](https://img.shields.io/badge/hexo-white?logo=hexo)
 
 &emsp;&emsp;
 ![idea](https://img.shields.io/badge/IntelliJ%20IDEA-blue?logo=IntelliJ%20IDEA&logoColor=black)
@@ -38,6 +39,7 @@
 ![apifox](https://img.shields.io/badge/Apifox-red?logo=Apifox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
 
 <!-- 贪吃蛇 -->
 ![snake](https://raw.githubusercontent.com/TankingCao/TankingCao/output/github-contribution-grid-snake.svg)
