@@ -54,7 +54,7 @@
 <!-- 奖杯 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=tankingcao&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://img2.imgtp.com/2024/04/03/WS7f3suw.gif" />
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 <!-- 提交记录 -->
