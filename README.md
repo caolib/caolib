@@ -20,16 +20,15 @@
 ![maven](https://img.shields.io/badge/maven-%23C71A36?logo=apache%20maven&logoColor=%23C71A36&labelColor=white)
 ![mybatis](https://img.shields.io/badge/mybatis-blue)
 ![mybatisplus](https://img.shields.io/badge/mybatis%20plus-red)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=MySQL&logoColor=white)
+![redis](https://img.shields.io/badge/redis-%23DC382D?logo=redis&labelColor=white&color=red)
 ![jwt](https://img.shields.io/badge/jwt-white?logo=jsonwebtokens&logoColor=white&labelColor=blue&color=red)
-
 
 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=MySQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-red?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
