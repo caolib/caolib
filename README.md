@@ -15,17 +15,29 @@
   
 &emsp;&emsp;
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![spring](https://img.shields.io/badge/spring-white?logo=spring&labelColor=white&color=%236DB33F)
+![springboot](https://img.shields.io/badge/springboot-white?logo=springboot&labelColor=white&color=%236DB33F)
+![maven](https://img.shields.io/badge/maven-%23C71A36?logo=apache%20maven&logoColor=%23C71A36&labelColor=white)
+![mybatis](https://img.shields.io/badge/mybatis-blue)
+![mybatisplus](https://img.shields.io/badge/mybatis%20plus-red)
+![jwt](https://img.shields.io/badge/jwt-white?logo=jsonwebtokens&logoColor=white&labelColor=blue&color=red)
+
+
+
+
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=MySQL&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-red?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![hexo](https://img.shields.io/badge/hexo-white?logo=hexo)
+
+
 
 
 
@@ -40,6 +52,7 @@
 ![element+](https://img.shields.io/badge/element%2B-white?logo=e&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Felement-plus.org%2Fzh-CN%2Fcomponent%2Fbutton.html)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![hexo](https://img.shields.io/badge/hexo-white?logo=hexo)
 
 
 <!-- 贪吃蛇 -->
