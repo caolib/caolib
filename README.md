@@ -7,7 +7,7 @@
 <!-- 个人资料徽标 -->
 &emsp;&emsp;
 <div align="center">
-  <a href="https://tankingcao.github.io"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>
+  <a href="https://tankingcao.github.io"><img alt="Static Badge" src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF-white?logoColor=blue&labelColor=blue&color=red&link=https%3A%2F%2Ftankingcao.github.io"></a>
   <img src="https://komarev.com/ghpvc/?username=tankingcao&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </br>
 
