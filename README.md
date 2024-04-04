@@ -14,8 +14,9 @@
   <div>&nbsp;</div>
   
 &emsp;&emsp;
-![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-red?style=flat-square&logo=css3)
@@ -23,10 +24,10 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 ![hexo](https://img.shields.io/badge/hexo-white?logo=hexo)
+
+
 
 &emsp;&emsp;
 ![idea](https://img.shields.io/badge/IntelliJ%20IDEA-blue?logo=IntelliJ%20IDEA&logoColor=black)
@@ -36,6 +37,7 @@
 ![github](https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white)
 ![gitee](https://img.shields.io/badge/Gitee-red?logo=Gitee&logoColor=white)
 ![apifox](https://img.shields.io/badge/Apifox-red?logo=Apifox&logoColor=white)
+![element+](https://img.shields.io/badge/element%2B-white?logo=e&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Felement-plus.org%2Fzh-CN%2Fcomponent%2Fbutton.html)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
