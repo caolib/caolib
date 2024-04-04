@@ -8,7 +8,7 @@
 &emsp;&emsp;
 <div align="center">
   <a href="https://github.com/TankingCao"><img src="https://img.shields.io/badge/tankingcao-black?logo=github"></a>
-  <a href="https://gitee.com/clibin"><img alt="Static Badge" src="https://img.shields.io/badge/gitee-white?logo=gitee&color=%23C71D23"></a>
+  <a href="https://gitee.com/clibin"><img alt="Static Badge" src="https://img.shields.io/badge/bin-white?logo=gitee&color=%23C71D23"></a>
   <a href="https://tankingcao.github.io"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF-white?logoColor=blue&labelColor=blue&color=red&link=https%3A%2F%2Ftankingcao.github.io"></a>
   <img src="https://komarev.com/ghpvc/?username=tankingcao&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </br>
