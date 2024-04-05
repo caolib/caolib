@@ -7,11 +7,11 @@
 <!-- 个人资料徽标 -->
 &emsp;&emsp;
 <div align="center">
-  <a href="https://github.com/TankingCao"><img src="https://img.shields.io/badge/tankingcao-black?logo=github"></a>
+  <a href="https://github.com/caolib"><img src="https://img.shields.io/badge/caolib-black?logo=github"></a>
   <a href="https://gitee.com/clibin"><img alt="Static Badge" src="https://img.shields.io/badge/bin-white?logo=gitee&color=%23C71D23"></a>
   <a href="https://space.bilibili.com/441126797"><img alt="Static Badge" src="https://img.shields.io/badge/bilibili-white?logo=bilibili&labelColor=white&color=%23fb7299"></a>
-  <a href="https://tankingcao.github.io"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF-white?logoColor=blue&labelColor=blue&color=red&link=https%3A%2F%2Ftankingcao.github.io"></a>
-  <img src="https://komarev.com/ghpvc/?username=tankingcao&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  <a href="https://caolib.github.io"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF-white?logoColor=blue&labelColor=blue&color=red&link=https%3A%2F%2Fcaolib.github.io"></a>
+  <img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </br>
 
   <div>&nbsp;</div>
@@ -58,22 +58,22 @@
 
 
 <!-- 贪吃蛇 -->
-![snake](https://raw.githubusercontent.com/TankingCao/TankingCao/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/caolib/caolib/output/github-contribution-grid-snake.svg)
 
 <!-- 连续提交代码天数记录 -->
 <p align="center">
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tankingcao&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caolib&theme=dark&hide_border=true" />
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p> 
 
 
 <!-- 奖杯 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=tankingcao&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+<div><img src="https://github-profile-trophy.vercel.app/?username=caolib&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <img width="200%" src="https://img2.imgtp.com/2024/04/03/WS7f3suw.gif" />
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 <!-- 提交记录 -->
-<!-- [![clb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TankingCao&theme=vue&hide_border=true&point=ff6b6b&area=true&bg_color=00000000&color=f2b94b&title_color=54a0ff)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- [![clb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caolib&theme=vue&hide_border=true&point=ff6b6b&area=true&bg_color=00000000&color=f2b94b&title_color=54a0ff)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
