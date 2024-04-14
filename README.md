@@ -11,7 +11,7 @@
   <a href="https://gitee.com/clibin"><img alt="Static Badge" src="https://img.shields.io/badge/bin-white?logo=gitee&color=%23C71D23"></a>
   <a href="https://space.bilibili.com/441126797"><img alt="Static Badge" src="https://img.shields.io/badge/bilibili-white?logo=bilibili&labelColor=white&color=%23fb7299"></a>
   <a href="https://caolib.github.io"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF-white?logoColor=blue&labelColor=blue&color=red&link=https%3A%2F%2Fcaolib.github.io"></a>
-  <img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat" alt="访问量统计"/>
 </br>
 
   <div>&nbsp;</div>
@@ -27,8 +27,6 @@
 ![redis](https://img.shields.io/badge/redis-%23DC382D?logo=redis&labelColor=white&color=red)
 ![jwt](https://img.shields.io/badge/jwt-white?logo=jsonwebtokens&logoColor=white&labelColor=blue&color=red)
 
-
-
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
@@ -38,10 +36,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-
-
-
-
 
 &emsp;&emsp;
 ![idea](https://img.shields.io/badge/IntelliJ%20IDEA-blue?logo=IntelliJ%20IDEA&logoColor=black)
@@ -55,7 +49,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![hexo](https://img.shields.io/badge/hexo-white?logo=hexo)
-
 
 <!-- 贪吃蛇 -->
 ![snake](https://raw.githubusercontent.com/caolib/caolib/output/github-contribution-grid-snake.svg)
