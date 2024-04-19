@@ -50,6 +50,10 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![hexo](https://img.shields.io/badge/hexo-white?logo=hexo)
 
+
+<!-- 提交分析 -->
+![Alt](https://repobeats.axiom.co/api/embed/6a670d1dee5fb2993d369b6e71a7313c1d7d157b.svg "Repobeats analytics image")
+
 <!-- 贪吃蛇 -->
 ![snake](https://raw.githubusercontent.com/caolib/caolib/output/github-contribution-grid-snake.svg)
 
