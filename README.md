@@ -55,7 +55,7 @@
 ![Linux](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=blue&labelColor=white&color=blue)
 ![hexo](https://img.shields.io/badge/hexo-white?logo=hexo)
 ![Yarn](https://img.shields.io/badge/Yarn-white?logo=yarn&logoColor=%232C8EBB&labelColor=white&color=%232C8EBB)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-white?logo=cloudflare&logoColor=%23F38020&labelColor=white&color=%23F38020)
+<!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-white?logo=cloudflare&logoColor=%23F38020&labelColor=white&color=%23F38020) -->
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caolib&theme=github_dark)
