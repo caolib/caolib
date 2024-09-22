@@ -3,8 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cascadia+code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Hello+World!" alt="Typing SVG" /></a>
 -->
 
-<!-- <img src="https://github.com/user-attachments/assets/ca9abc3d-afdb-4c12-b307-866ff355074c"/>
--->
 <div align="center">
     <img src="https://s2.loli.net/2024/09/22/19PDa62YBQLwkli.gif" width="20%"/>
 </div>
@@ -68,6 +66,15 @@
 ![Yarn](https://img.shields.io/badge/Yarn-white?logo=yarn&logoColor=%232C8EBB&labelColor=white&color=%232C8EBB)
 <!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-white?logo=cloudflare&logoColor=%23F38020&labelColor=white&color=%23F38020) -->
 
+<!-- ROCK!! -->
+<table width="100%" border="0">
+    <tr>
+        <td align="center"><img src="https://s2.loli.net/2024/09/22/UOduB3Wr5sjiXfv.gif" width="50%"></td>
+        <td align="center"><img src="https://s2.loli.net/2024/09/22/sFPZHioyBAKacX7.gif" width="50%"></td>
+        <td align="center"><img src="https://s2.loli.net/2024/09/22/niUkwVgu8ETQHbm.gif" width="50%"></td>
+        <td align="center"><img src="https://s2.loli.net/2024/09/22/nY8fLPc5q9kRSpW.gif" width="50%"></td>
+    </tr>
+</table>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caolib&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caolib&theme=github_dark)
