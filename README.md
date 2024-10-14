@@ -66,7 +66,7 @@
 ![Yarn](https://img.shields.io/badge/Yarn-white?logo=yarn&logoColor=%232C8EBB&labelColor=white&color=%232C8EBB)
 <!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-white?logo=cloudflare&logoColor=%23F38020&labelColor=white&color=%23F38020) -->
 
-<!-- ROCK!! -->
+<!-- ROCK!! 
 <table width="100%" border="0">
     <tr>
         <td align="center"><img src="https://s2.loli.net/2024/09/22/UOduB3Wr5sjiXfv.gif" width="50%"></td>
@@ -75,6 +75,7 @@
         <td align="center"><img src="https://s2.loli.net/2024/09/22/nY8fLPc5q9kRSpW.gif" width="50%"></td>
     </tr>
 </table>
+-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caolib&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caolib&theme=github_dark)
