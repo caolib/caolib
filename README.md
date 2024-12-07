@@ -66,26 +66,20 @@
 ![Yarn](https://img.shields.io/badge/Yarn-white?logo=yarn&logoColor=%232C8EBB&labelColor=white&color=%232C8EBB)
 <!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-white?logo=cloudflare&logoColor=%23F38020&labelColor=white&color=%23F38020) -->
 
-<!-- ROCK!! 
-<table width="100%" border="0">
-    <tr>
-        <td align="center"><img src="https://s2.loli.net/2024/09/22/UOduB3Wr5sjiXfv.gif" width="50%"></td>
-        <td align="center"><img src="https://s2.loli.net/2024/09/22/sFPZHioyBAKacX7.gif" width="50%"></td>
-        <td align="center"><img src="https://s2.loli.net/2024/09/22/niUkwVgu8ETQHbm.gif" width="50%"></td>
-        <td align="center"><img src="https://s2.loli.net/2024/09/22/nY8fLPc5q9kRSpW.gif" width="50%"></td>
-    </tr>
-</table>
--->
 
+<!-- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caolib&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caolib&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caolib&theme=github_dark)
+->
+
+<!-- 奖杯 -->
+<!-- <div><img src="https://github-profile-trophy.vercel.app/?username=caolib&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=caolib&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caolib&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&size_weight=0.5&count_weight=0.5" />
+
 
 <!-- 贪吃蛇 -->
 ![snake](https://raw.githubusercontent.com/caolib/caolib/output/github-contribution-grid-snake.svg)
-
-<!-- 奖杯 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=caolib&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <img width="200%" src="https://img2.imgtp.com/2024/04/03/WS7f3suw.gif" />
 
