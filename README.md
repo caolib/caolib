@@ -73,9 +73,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caolib&theme=github_dark)
 ->
 
-<!-- 奖杯 -->
+<!-- 提交分析 -->
 <!-- <div><img src="https://github-profile-trophy.vercel.app/?username=caolib&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=caolib&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caolib&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&size_weight=0.5&count_weight=0.5&exclude_repo=caolib.github.io,newbing" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=caolib&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caolib&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&size_weight=0.5&count_weight=0.5&hide=html,css&langs_count=6" />
 
 
 <!-- 贪吃蛇 -->
