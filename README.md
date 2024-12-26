@@ -45,26 +45,25 @@
 ![Docker](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=%232496ED&labelColor=white&color=%232496ED)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-red?style=flat-square&logo=css3)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![element+](https://img.shields.io/badge/element%2B-white?logo=e&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Felement-plus.org%2Fzh-CN%2Fcomponent%2Fbutton.html)
 ![antd](https://img.shields.io/badge/Ant%20Design-blue?logo=antdesign&logoColor=%230170FE&labelColor=white)
 ![Vite](https://img.shields.io/badge/Vite-white?style=social&logo=vite&logoColor=%23646CFF&labelColor=white)
-![npm](https://img.shields.io/badge/npm-white?logo=npm&logoColor=%23CB3837&labelColor=white&color=%23CB3837)
 ![pnpm](https://img.shields.io/badge/pnpm-white?logo=pnpm&labelColor=white&color=%23F69220)
+<!-- ![npm](https://img.shields.io/badge/npm-white?logo=npm&logoColor=%23CB3837&labelColor=white&color=%23CB3837) -->
+<!-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) -->
 
 
 &emsp;&emsp;
 ![IDEA](https://img.shields.io/badge/Intellij%20IDEA-blue?logo=intellijidea&logoColor=black)
 ![webstorm](https://img.shields.io/badge/WebStorm-blue?logo=WebStorm&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-FCC624?logo=git)
 ![github](https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white)
 ![gitee](https://img.shields.io/badge/Gitee-red?logo=Gitee&logoColor=white)
 ![apifox](https://img.shields.io/badge/Apifox-red?logo=Apifox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=blue&labelColor=white&color=blue)
 ![hexo](https://img.shields.io/badge/hexo-white?logo=hexo)
-![Yarn](https://img.shields.io/badge/Yarn-white?logo=yarn&logoColor=%232C8EBB&labelColor=white&color=%232C8EBB)
-<!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-white?logo=cloudflare&logoColor=%23F38020&labelColor=white&color=%23F38020) -->
+![Cloudflare](https://img.shields.io/badge/Cloudflare-white?logo=cloudflare&logoColor=%23F38020&labelColor=white&color=%23F38020)
 
 
 <!-- 
