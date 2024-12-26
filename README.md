@@ -1,6 +1,6 @@
 <img align="right" src="https://s2.loli.net/2024/09/22/19PDa62YBQLwkli.gif" width="20%"/> 
 
-- 👋 Hi, I am @caolib.
+- 👋 Hi, I am @孤独的Lonely.
 - 🧑‍🎓 I am a senior student.
 - 🩷 I like reading comics and cartoons.
 - ✨ I like to play something new.
