@@ -73,7 +73,7 @@
 
 
 <!-- 贪吃蛇 -->
-![snake](https://raw.githubusercontent.com/caolib/caolib/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/caolib/caolib/output/github-contribution-grid-snake-dark.svg)
 
 <img width="200%" src="https://img2.imgtp.com/2024/04/03/WS7f3suw.gif" />
 
