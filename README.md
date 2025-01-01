@@ -1,12 +1,12 @@
 <img align="right" src="https://s2.loli.net/2024/09/22/19PDa62YBQLwkli.gif" width="20%"/> 
 
-- 👋 Hi, I am @孤独的Lonely.
-- 💻 I am a back-end developer.
-- 🧑‍🎓 I am a senior student.
-- 🩷 I like reading comics and cartoons.
-- ✨ I like to play something new.
-- 🔗 This is my [personal blog](https://clb.pages.dev), welcome to visit.
-- 📧 Contact me through 1265501579@qq.com.
+- 👋 Hi, I am @孤独的Lonely
+- 💻 I am a back-end developer
+- 🧑‍🎓 I am a senior student
+- 🩷 I like reading comics 和 cartoons
+- ✨ I like to play something new
+- 🔗 This is my [personal blog](https://clb.pages.dev), welcome to visit
+- 📧 Contact me through 1265501579@qq.com
 
 ---
 
