@@ -12,7 +12,7 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-    <a href="https://clb.pages.dev"><img src="https://img.shields.io/badge/blog-学海无涯-white?logoColor=blue&labelColor=blue&color=red"></a>
+    <a href="https://blog.caolib.us.kg"><img src="https://img.shields.io/badge/blog-学海无涯-white?logoColor=blue&labelColor=blue&color=red"></a>
         <a href="https://caolib.pages.dev"><img src="https://img.shields.io/badge/blog-平凡世界-white?logoColor=blue&labelColor=blue&color=red"></a>
   <a href="https://github.com/caolib"><img src="https://img.shields.io/badge/caolib-black?logo=github"></a>
   <a href="https://gitee.com/clibin"><img alt="Static Badge" src="https://img.shields.io/badge/bin-white?logo=gitee&color=%23C71D23"></a>
