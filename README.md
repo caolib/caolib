@@ -75,8 +75,8 @@
 <!-- 贪吃蛇 -->
 ![snake](https://raw.githubusercontent.com/caolib/caolib/output/github-contribution-grid-snake-dark.svg)
 
-<img width="200%" src="https://img2.imgtp.com/2024/04/03/WS7f3suw.gif" />
-
+<!--
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-rainbow.svg)
+-->
 <!-- 提交记录 -->
 <!-- [![clb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caolib&theme=vue&hide_border=true&point=ff6b6b&area=true&bg_color=00000000&color=f2b94b&title_color=54a0ff)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
