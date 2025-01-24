@@ -1,9 +1,9 @@
 <img align="right" src="https://s2.loli.net/2024/09/22/19PDa62YBQLwkli.gif" width="20%"/> 
 
 - 👋 Hi, I am [@孤独的Lonely](https://github.com/caolib)
-- 💻 I am a back-end developer
+- 💻 I am a backend developer
 - 🧑‍🎓 I am a senior student
-- 🩷 I like reading comics 和 cartoons
+- 🩷 I like reading manga and watching anime
 - ✨ I like to play something new
 - 🔗 This is my [personal blog](https://clb.pages.dev), welcome to visit
 - 📧 Contact me through 1265501579@qq.com
