@@ -31,6 +31,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=%234479A1&labelColor=white&color=%234479A1)
 ![redis](https://img.shields.io/badge/redis-%23DC382D?logo=redis&labelColor=white&color=red)
 ![jwt](https://img.shields.io/badge/JWT-white?logo=jsonwebtokens&logoColor=white&labelColor=blue&color=red)
+![Tauri](https://img.shields.io/badge/Tauri-white?logo=tauri&logoColor=%2324C8D8)
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=social&logo=javascript&logoColor=%23F7DF1E&labelColor=white&color=%23F7DF1E)
 
