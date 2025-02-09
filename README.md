@@ -26,7 +26,6 @@
 ![Boot](https://img.shields.io/badge/Boot-white?logo=springboot&labelColor=white&color=%236DB33F)
 ![Cloud](https://img.shields.io/badge/Cloud-white?logo=spring&labelColor=white&color=%236DB33F)
 ![maven](https://img.shields.io/badge/maven-%23C71A36?logo=apache%20maven&logoColor=%23C71A36&labelColor=white)
-![mybatis](https://img.shields.io/badge/mybatis-blue)
 ![mybatisplus](https://img.shields.io/badge/mybatis%20plus-red)
 ![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=%234479A1&labelColor=white&color=%234479A1)
 ![redis](https://img.shields.io/badge/redis-%23DC382D?logo=redis&labelColor=white&color=red)
