@@ -1,4 +1,4 @@
-<img align="right" src="https://s2.loli.net/2024/09/22/19PDa62YBQLwkli.gif" width="20%"/> 
+<img align="right" src="https://s2.loli.net/2025/02/21/QSPZr2IjHEW8Bpz.gif" width="20%"/> 
 
 - 👋 Hi, I am [@孤独的Lonely](https://github.com/caolib)
 - 💻 I am a backend developer
