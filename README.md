@@ -6,7 +6,7 @@
 - 🩷 I like reading manga and watching anime
 - ✨ I like to play something new
 - 🔗 This is my [personal blog](https://clb.pages.dev), welcome to visit
-- 📧 Contact me through 1265501579@qq.com
+- 📧 Contact me through caolibx@qq.com
 
 ---
 
