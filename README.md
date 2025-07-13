@@ -8,7 +8,6 @@
 - 🔗 This is my [personal blog](https://clb.pages.dev), welcome to visit
 - 📧 Contact me through caolibx@qq.com
 
----
 
 <!-- 个人资料徽标 -->
 <div align="center">
