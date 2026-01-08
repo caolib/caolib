@@ -2,18 +2,16 @@
 
 - 👋 Hi, I am [@孤独的Lonely](https://github.com/caolib)
 - 💻 I am a backend developer
-- 🧑‍🎓 I am a senior student
-- 🩷 I like reading manga and watching anime
-- ✨ I like to play something new
-- 🔗 This is my [personal blog](https://clb.pages.dev), welcome to visit
+- 🧑‍🎓 I am a postgraduate
+- 🩷 I like reading comics and anime
+- ✨ i like some new things
 - 📧 Contact me through caolibx@qq.com
 
 </br>
 
 <!-- 个人资料徽标 -->
 <div align="center">
-        <a href="https://space.bilibili.com/441126797"><img alt="Static Badge" src="https://img.shields.io/badge/bilibili-white?logo=bilibili&labelColor=white&color=%23fb7299"></a>
-    <a href="https://clb.pages.dev"><img src="https://img.shields.io/badge/blog-学海无涯-white?logoColor=blue&labelColor=blue&color=red"></a>
+    <a href="https://space.bilibili.com/441126797"><img alt="Static Badge" src="https://img.shields.io/badge/bilibili-white?logo=bilibili&labelColor=white&color=%23fb7299"></a>
     <a href="https://docs.caolib.dpdns.org/"><img src="https://img.shields.io/badge/blog-docs-white?logoColor=blue&labelColor=blue&color=red"></a>
     <img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat" alt="访问量统计"/>
 </br>
