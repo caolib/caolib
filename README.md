@@ -4,7 +4,7 @@
 - 💻 I am a backend developer
 - 🧑‍🎓 I am a postgraduate
 - 🩷 I like reading comics and anime
-- ✨ i like some new things
+- ✨ I like some new things
 - 📧 Contact me through caolibx@qq.com
 
 </br>
