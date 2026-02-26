@@ -23,3 +23,16 @@
 
 <!-- tools -->
 [![Dev Tools](https://skillicons.dev/icons?i=idea,vscode,webstorm,git,github,pnpm,maven,cloudflare,vite&theme=light)](https://skillicons.dev)
+
+---
+
+<details>
+<summary>Reward</summary>
+<br>
+<table>
+  <tr>
+    <td align="center"><img src="img/vx.png" width="200"/><br><b>WeChat</b></td>
+    <td align="center"><img src="img/ali.jpg" width="200"/><br><b>Alipay</b></td>
+  </tr>
+</table>
+</details>
