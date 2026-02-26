@@ -1,6 +1,6 @@
 <img align="right" src="https://s2.loli.net/2025/08/28/8wkOIcoWQYiNZq1.gif" width="20%"/> 
 
-- 👋 Hi, I am [@孤独的Lonely](https://github.com/caolib)
+- 👋 Hi, I am [@caolib](https://github.com/caolib)
 - 💻 I am a backend developer
 - 🧑‍🎓 I am a postgraduate
 - 🩷 I like reading comics and anime
@@ -19,15 +19,16 @@
   <div>&nbsp;</div>
 
 <!-- skills -->
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,vue,tauri,js,css,md&theme=light)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?i=java,spring,mysql,redis,vue,tauri,js,css,md&theme=light)](https://skillicons.dev)
 
 <!-- tools -->
-[![Dev Tools](https://skillicons.dev/icons?i=idea,vscode,webstorm,git,github,pnpm,maven,cloudflare,vite&theme=light)](https://skillicons.dev)
+[![Dev Tools](https://skills.syvixor.com/api/icons?i=intellijidea,vscode,webstorm,git,github,pnpm,maven,cloudflare,vite&theme=light)](https://skillicons.dev)
 
----
+
+</div>
 
 <details>
-<summary>Reward</summary>
+<summary>💰 Reward</summary>
 <br>
 <table>
   <tr>
