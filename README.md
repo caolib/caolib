@@ -16,16 +16,10 @@
     <a href="https://linux.do/u/caolib/summary"><img src="https://img.shields.io/badge/linux.do-caolib-white?&labelColor=gold&color=black"></a>
     <img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat" alt="访问量统计"/>
 </br>
-  <div>&nbsp;</div>
+</br>
 
 <!-- skills -->
 [![My Skills](https://skills.syvixor.com/api/icons?i=java,spring,mysql,redis,vue,tauri,js,css,md)](https://skillicons.dev)
 
 <!-- tools -->
 [![Dev Tools](https://skills.syvixor.com/api/icons?i=intellijidea,vscode,webstorm,git,github,pnpm,maven,cloudflare,vite)](https://skillicons.dev)
-
-![](https://github-readme-stats.vercel.app/api?username=caolib&theme=tokyonight&bg_color=30,0d1117,1a1a2e,533483&title_color=a78bfa&text_color=c9d1d9&icon_color=60a5fa&border_radius=12&show_icons=true&locale=cn)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=caolib&layout=compact&langs_count=8&hide=html,css&theme=tokyonight&bg_color=30,533483,1a1a2e,0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=60a5fa&border_radius=12&locale=cn)
-
-</div>
