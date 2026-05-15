@@ -14,7 +14,7 @@
 <div align="center">
     <a href="https://qm.qq.com/cgi-bin/qm/qr?k=Cgds5I7WmzClFT0MX98NkV3z6yJlviJF"><img src="https://img.shields.io/badge/QQ-white?logo=qq&labelColor=white&color=%231EBAFC"></a>
     <a href="https://linux.do/u/caolib/summary"><img src="https://img.shields.io/badge/linux.do-caolib-white?&labelColor=gold&color=black"></a>
-    <img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat" alt="访问量统计"/>
+    <img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat"/>
 </br>
 </br>
 
@@ -23,3 +23,6 @@
 
 <!-- tools -->
 [![Dev Tools](https://skills.syvixor.com/api/icons?i=intellijidea,vscode,webstorm,git,github,pnpm,maven,cloudflare,vite)](https://skillicons.dev)
+
+![](https://github-stats-extended.vercel.app/api?username=caolib&locale=cn)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=caolib&locale=cn&layout=compact&hide=html&langs_count=8)
