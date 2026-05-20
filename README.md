@@ -24,5 +24,5 @@
 <!-- tools -->
 [![Dev Tools](https://skills.syvixor.com/api/icons?i=intellijidea,vscode,webstorm,git,github,pnpm,maven,cloudflare,vite)](https://skillicons.dev)
 
-![](https://github-stats-extended.vercel.app/api?username=caolib&locale=cn)
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=caolib&locale=cn&layout=compact&hide=html&langs_count=8)
+![](https://github-stats-extended.vercel.app/api?username=caolib&locale=cn&theme=dark)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=caolib&locale=cn&layout=compact&hide=html&langs_count=8&theme=dark)
