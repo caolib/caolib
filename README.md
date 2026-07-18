@@ -22,6 +22,6 @@
 [![My Skills](https://skills.syvixor.com/api/icons?i=java,spring,mysql,redis,vue,tauri,js,css,md)](https://skillicons.dev)
 
 <!-- tools -->
-[![Dev Tools](https://skills.syvixor.com/api/icons?i=intellijidea,vscode,webstorm,git,github,pnpm,maven,cloudflare,vite)](https://skillicons.dev)
+[![Dev Tools](https://skills.syvixor.com/api/icons?i=claudeai,codex,opencode,git,github,pnpm,maven,cloudflare,vite)](https://skillicons.dev)
 
 [![GitHub Roast](https://githubroast.icu/api/card/caolib)](https://githubroast.icu/u/caolib)
