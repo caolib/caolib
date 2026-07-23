@@ -24,4 +24,4 @@
 <!-- tools -->
 [![Dev Tools](https://skills.syvixor.com/api/icons?i=claudeai,codex,opencode,git,github,pnpm,maven,cloudflare,vite)](https://skillicons.dev)
 
-[![GitHub Roast](https://githubroast.icu/api/card/caolib)](https://githubroast.icu/u/caolib)
+[![GitHub Roast](https://ghfind.com/api/card/caolib?theme=dark&variant=path)](https://ghfind.com/u/caolib?ref=badge)
