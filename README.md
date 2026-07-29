@@ -8,7 +8,6 @@
 - 📧 Contact me through caolibx@qq.com
 
 </br>
-</br>
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -16,6 +15,16 @@
     <a href="https://linux.do/u/caolib/summary"><img src="https://img.shields.io/badge/linux.do-caolib-white?&labelColor=gold&color=black"></a>
     <img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat"/>
 </br>
+
+</br>
+
+<a href="https://ghfind.com/u/caolib?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/caolib?variant=radar&theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/caolib?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
+
 </br>
 
 <!-- skills -->
@@ -23,5 +32,3 @@
 
 <!-- tools -->
 [![Dev Tools](https://skills.syvixor.com/api/icons?i=claudeai,codex,opencode,git,github,pnpm,maven,cloudflare,vite)](https://skillicons.dev)
-
-[![GitHub Roast](https://ghfind.com/api/card/caolib?theme=dark&variant=path)](https://ghfind.com/u/caolib?ref=badge)
