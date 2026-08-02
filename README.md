@@ -1,4 +1,4 @@
-<img align="right" src="https://s2.loli.net/2025/08/28/8wkOIcoWQYiNZq1.gif" width="20%"/> 
+<img align="right" src="https://github.com/user-attachments/assets/cb95ae00-8385-4523-a14d-d1bb6aa46a61" width="20%"/> 
 
 - 👋 Hi, I am [@caolib](https://github.com/caolib)
 - 💻 I am a backend developer
