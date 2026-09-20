@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/user-attachments/assets/cb95ae00-8385-4523-a14d-d1bb6aa46a61" width="20%"/> 
+<img align="right" src="https://files.seeusercontent.com/2026/09/20/7Mnh/QQ202608021613342.gif" width="20%"/> 
 
 - 👋 Hi, I am [@caolib](https://github.com/caolib)
 - 💻 I am a backend developer
@@ -11,18 +11,10 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
+    <a><img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat"/></a>
     <a href="https://qm.qq.com/cgi-bin/qm/qr?k=Cgds5I7WmzClFT0MX98NkV3z6yJlviJF"><img src="https://img.shields.io/badge/QQ-white?logo=qq&labelColor=white&color=%231EBAFC"></a>
-    <img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat"/>
+    <a href="https://ghfind.com/u/caolib?ref=badge"><img src="https://ghfind.com/api/badge/caolib?lang=zh" alt="GitHub Roast 评分徽章" /></a>
 </br>
-
-</br>
-
-<a href="https://ghfind.com/u/caolib?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/caolib?variant=radar&theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/caolib?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
-  </picture>
-</a>
 
 </br>
 
