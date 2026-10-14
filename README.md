@@ -13,7 +13,6 @@
 <div align="center">
     <a><img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat"/></a>
     <a href="https://qm.qq.com/cgi-bin/qm/qr?k=Cgds5I7WmzClFT0MX98NkV3z6yJlviJF"><img src="https://img.shields.io/badge/QQ-white?logo=qq&labelColor=white&color=%231EBAFC"></a>
-    <a href="https://ghfind.com/u/caolib?ref=badge"><img src="https://ghfind.com/api/badge/caolib?lang=zh"/></a>
 </br>
 
 </br>
