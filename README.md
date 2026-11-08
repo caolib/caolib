@@ -1,4 +1,4 @@
-<img align="right" src="https://files.seeusercontent.com/2026/09/20/7Mnh/QQ202608021613342.gif" width="20%"/> 
+<img align="right" src="https://files.seeusercontent.com/2026/11/08/Vn3e/QQ202611081744511.gif" width="20%"/> 
 
 - 👋 Hi, I am [@caolib](https://github.com/caolib)
 - 💻 I am a developer
